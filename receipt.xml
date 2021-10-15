@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Receipt Version="1.0" CertificateId="A656B9B1B3AA509EEA30222E6D5E7DBDA9822DCD" ReceiptDate="2021-10-15T21:15:39.556Z" ReceiptDeviceId="6825778928020134" xmlns="http://schemas.microsoft.com/windows/2012/store/receipt">
+    <AppReceipt Id="6df79cef-27c8-48b4-84de-95f2f65f3a47" AppId="57012MikeFrancis.TimeZonesConverter_08pddan6qgb4e" LicenseType="Purchase" PurchaseDate="2020-04-28T16:15:07.136Z" />
+    <ProductReceipt PurchasePrice="USD0" PurchaseDate="2020-10-22T20:49:23.571Z" Id="e38a842f-fb44-4619-bf00-1fe258b10d7b" AppId="57012MikeFrancis.TimeZonesConverter_08pddan6qgb4e" ProductId="TZSubscriptionTest" ProductType="Durable" PublisherUserId="yrAlZhgulN6d/RghrHSctMi+DwM2bMqlx9cyMcc7zpI=" MicrosoftProductId="101a8167-b3e2-4090-a0f2-5c99c3430ce0" MicrosoftAppId="101a8167-b3e2-4090-a0f2-5c99c3430ce0" ExpirationDate="9999-12-31T23:59:59.999Z" OfferId="" />
+    <ProductReceipt PurchasePrice="USD0" PurchaseDate="2021-07-06T19:34:07.378Z" Id="a3bfbc8a-3f4d-447c-ae70-08bc472a0594" AppId="57012MikeFrancis.TimeZonesConverter_08pddan6qgb4e" ProductId="MyConsumable" ProductType="Consumable" PublisherUserId="yrAlZhgulN6d/RghrHSctMi+DwM2bMqlx9cyMcc7zpI=" MicrosoftProductId="101a8167-b3e2-4090-a0f2-5c99c3430ce0" MicrosoftAppId="101a8167-b3e2-4090-a0f2-5c99c3430ce0" ExpirationDate="9999-12-31T23:59:59.999Z" OfferId="" />
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+            <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+            <Reference URI="">
+                <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+                <DigestValue>bQgQrMYlQgPIw8voCYTZk6QkD+mmwCMF2bctUygnUI8=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue>CzZsff22offkavxKHmtkix+mudzEkI+qZ+WTTqK0KLkJLvH/lbo+S8+WCAOlkF255n3+UqkcvT6Ci6bm2yX1BvC5OtmHijmn4zerMwrdrNqtPEivNAJj3GYm0Hwq4dV4MdQa5QF4/fCwFWh3mU91mcfYAwHlZl5MY6jcBY0Gsi+phKqBlSMpiy1vzWEcf9pFp7HvXyWlGRvD00W/gP8HPPuS+UlmbODq7R5G1mo7a2iMWgr2HkADPGnSjuxeqWDUjsyQYAsTWz0J7S+2x2Kd0vjFKC9SSeHiA7+XhUacxR/pRSQMNbk2QZwN7niaqAUnZggNuBcA2KzNK+JEC6/FMw==</SignatureValue>
+    </Signature>
+</Receipt>
